@@ -1,0 +1,203 @@
+
+
+/* Border style tabla*/
+th{
+	  border-style: double;
+	  background-color: orange;
+	  border-color: black;
+	  color: black;
+	  text-align: center;
+}
+
+td{
+	 border-style: outset;
+	 background-color: #D3D3D3 ;
+	 color: green; 
+	 
+}
+
+/*Recopilatorio personal*/
+
+li{
+	font-family: sans-serif;
+    color: black;
+    border: none;
+    margin-top:5px;
+	font-weight: bold; 
+    font-style: italic;
+    color: black
+}	
+
+/* Lista de definición Edades*/
+
+.A{
+
+    color: Green;
+    font-size: 19pt;
+	font-family: Helvetica;
+}
+	
+.x{
+	
+	color: Red;
+	font-size: 19pt;
+	font-family: Helvetica;
+	
+
+}
+	
+.d{	
+  
+    color: blue;
+	font-size: 19pt;
+	font-family: Helvetica;
+}
+
+.s{	
+  
+    color: grey;
+	font-size: 19pt;
+	font-family: Helvetica;
+}
+
+/* Significado de FR/ES/IN*/
+
+
+.fr{
+	font-weight: bold; 
+    font-style: italic;
+    color: black;
+	
+}
+
+.es{
+	font-weight: bold; 
+    font-style: italic;
+    color: black;
+	
+}
+	
+.in{
+	font-weight: bold; 
+    font-style: italic;
+    color: black;
+	
+}	
+
+dd{
+	
+	text-transform: capitalize;
+	line-height: 2.5;
+    font-size: 15px;
+	font-weight: bold;
+}
+
+/* Título Películas alineación*/
+
+
+.pelis{
+	
+	font-size: 40pt;
+	text-align: center;
+	Color: Red;
+	font-style: italic;
+	
+}
+
+
+	/* Centrado de la tabla*/
+	
+table{
+	
+	
+     width: 100px;
+     margin: 0 auto;
+
+	
+}
+	/* Significado edades Título*/
+	
+.sig{
+	
+	Color: White;
+	font-size: 20pt;
+	font-style: normal;
+	font-weight: 600;
+	
+}
+
+   /* Significado FR/ES/IN*/
+   
+.idiomas{
+	
+	Color: White;
+	font-size: 20pt;
+	font-style: normal;
+	font-weight: 600;
+	
+}
+
+      /* Significado FR/ES/IN*/
+	  
+.resume{
+	
+	Color: #CD5C5C;
+	font-size: 20pt;
+	font-style: normal;
+	font-weight: 600;
+	text-align: center;
+	
+}
+
+   /* Enlaces*/
+
+.intern{
+	
+	font-size: 1rem;
+    text-align: center;
+	color: lime;
+	font-weight: bold;
+}
+.extern{
+	
+	font-size: 1.3rem;
+    text-align: center;
+	color: blue;
+	font-weight: bold;
+}
+
+     /* Formulario*/
+	 
+input{
+	 border-style: dashed groove none dotted;
+	 background-color: yellow;
+}	 
+	 
+	 
+legend{
+	
+	Color:black;
+	font-size: 1.3rem;
+	
+}
+
+    /* Aquí el origen de la imagen de fondo */
+	
+	
+body{
+	
+	background-image: url("img/3.jpg");
+	background-attachment: fixed;
+}
+	 
+div{
+	
+	background-image: url("img/2.jpg");
+}
+
+   /* Enlaces para comprar online*/
+   
+.enlace {
+	
+	color: white;
+}
